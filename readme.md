@@ -1,4 +1,4 @@
-> Brenda Escoto
+> Brenda Escoto; 
 > escot105@mail.chapman.edu
 
 Files:
