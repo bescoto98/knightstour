@@ -1,7 +1,6 @@
 /**
 Brenda Escoto
 escot105@mail.chapman.edu
-CPSC 406-01 Algorithm Analysis
 April 22, 2019
 **/
 #include <iostream>
